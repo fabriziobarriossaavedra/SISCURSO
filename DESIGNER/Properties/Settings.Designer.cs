@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SISCURSOS.Properties
+namespace DESIGNER.Properties
 {
 
 

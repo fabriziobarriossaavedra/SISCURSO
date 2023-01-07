@@ -1,4 +1,4 @@
-﻿namespace SISCURSOS
+﻿namespace DESIGNER
 {
     partial class Form1
     {
